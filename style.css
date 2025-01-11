@@ -397,16 +397,18 @@ svg {
     }
 
     .webpage-info {
-        padding: 20px 10px;
+        padding: 6px 10px;
+        gap: 10px;
+        justify-content: center;
     }
 
     .webpage-desc {
-        font-size: 12px;
+        font-size: 10px;
     }
 
     .webpage-link {
         padding: 5px 10px;
-        font-size: 13px;
+        font-size: 10px;
     }
 
     .project-name {
